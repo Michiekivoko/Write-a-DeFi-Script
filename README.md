@@ -28,6 +28,9 @@ The diagram below illustrates the sequence of steps and interactions between the
 
 
 
+
+---
+
 ## Code Explanation
 
 This section provides a detailed breakdown of the script, highlighting key functions, the underlying logic, and how the interactions with the DeFi protocols Uniswap V3 and Aave are handled.
