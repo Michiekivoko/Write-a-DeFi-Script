@@ -1,3 +1,5 @@
+---
+
 # DeFi Script: Uniswap & Aave Integration
 
 ## Overview of Script
@@ -21,10 +23,6 @@ This script can be deployed on the Ethereum Sepolia testnet, allowing users to e
 
 The diagram below illustrates the sequence of steps and interactions between the protocols:
 
-![DeFi Script Workflow](./Images/Defi Diagram.png)
+![DeFi Script Workflow](./defi-diagram.png)
 
-## How to Use
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-repo/defi-script.git
