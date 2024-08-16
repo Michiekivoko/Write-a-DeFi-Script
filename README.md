@@ -25,8 +25,6 @@ The diagram below illustrates the sequence of steps and interactions between the
 
 ![DeFi Script Workflow](./defi-diagram.png)
 
----
-
 ## Code Explanation
 
 This section provides a detailed breakdown of the script, highlighting key functions, the underlying logic, and how the interactions with the DeFi protocols Uniswap V3 and Aave are handled.
@@ -68,8 +66,3 @@ This section provides a detailed breakdown of the script, highlighting key funct
   - The script uses the aTokens as a representation of the user's deposit, which will accrue interest over time based on the rates provided by Aave.
 
 This detailed explanation should provide clarity on how the script operates and how it leverages the functionalities provided by Uniswap V3 and Aave to execute complex DeFi operations.
-
----
-
-
-
