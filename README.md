@@ -23,8 +23,3 @@ The diagram below illustrates the sequence of steps and interactions between the
 
 ![DeFi Script Workflow](./Images/Defi Diagram.png)
 
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-repo/defi-script.git
