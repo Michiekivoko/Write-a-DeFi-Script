@@ -65,4 +65,4 @@ This section provides a detailed breakdown of the script, highlighting key funct
   - After acquiring LINK, the script interacts with Aave by approving the Lending Pool contract to spend the user's LINK. It then supplies the LINK to Aave, which mints aTokens in return.
   - The script uses the aTokens as a representation of the user's deposit, which will accrue interest over time based on the rates provided by Aave.
 
-This detailed explanation should provide clarity on how the script operates and how it leverages the functionalities provided by Uniswap V3 and Aave to execute complex DeFi operations.
+
